@@ -100,4 +100,4 @@ Kelurahan dengan indeks keterpaparan tertinggi: ...
 
 ## Penulis
 
-Nama, instansi/kampus, 2026
+Adnan Yusuf Hartawan, Universitas Diponegoro, 2026
