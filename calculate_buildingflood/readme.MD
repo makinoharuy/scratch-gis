@@ -125,7 +125,7 @@ Catatan:
 
 ## Output 
 
-![Tampilan Project QGIS](output/LAYOUT .pdf)
+![Tampilan Project QGIS](calculate_buildingflood/output/LAYOUT .pdf)
 
 ## Perangkat Lunak
 
