@@ -125,7 +125,7 @@ Catatan:
 
 ## Output 
 
-[Unduh layout peta (PDF)](output/LAYOUT.pdf)
+[Unduh layout peta (PDF)](https://github.com/makinoharuy/scratch-gis/tree/main/calculate_buildingflood/output)
 
 ## Perangkat Lunak
 
